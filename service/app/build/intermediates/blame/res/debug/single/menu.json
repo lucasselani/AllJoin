@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\service\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
+        "source": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\service\\app\\src\\main\\res\\menu\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\wesleyp\\Documents\\service\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
+        "source": "C:\\Users\\wesleyp\\Documents\\service\\app\\src\\main\\res\\menu\\mainmenu.xml"
+    },
+    {
+        "merged": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\service\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
+        "source": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\service\\app\\src\\main\\res\\menu\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\service\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
+        "source": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\service\\app\\src\\main\\res\\menu\\mainmenu.xml"
+    }
+]

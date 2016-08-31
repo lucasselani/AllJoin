@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\client\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\client\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\client\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

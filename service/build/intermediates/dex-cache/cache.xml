@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\alljoyn-16.04a-src\alljoyn samples_v1-Ermiston\alljoyn samples\service\app\src\main\jniLibs\alljoyn.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fab551e675fbdb39f8fbabe164622ef9085a5fe5">
+        <dex dex="C:\alljoyn-16.04a-src\alljoyn samples_v1-Ermiston\alljoyn samples\service\app\build\intermediates\pre-dexed\debug\alljoyn_76de10ee8157b7da35c8d31e598a591973fbdd91.jar" />
+    </item>
+
+</items>

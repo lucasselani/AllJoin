@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\service\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wesleyp\\Documents\\service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\Users\\wesleyp\\Documents\\service\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\service\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\service\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]

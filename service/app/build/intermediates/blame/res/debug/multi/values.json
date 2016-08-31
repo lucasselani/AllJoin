@@ -1,0 +1,324 @@
+[
+    {
+        "outputFile": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\service\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 60,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 60,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 84,
+                    "endOffset": 248
+                },
+                "from": {
+                    "file": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 84,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 253,
+                    "endColumn": 50,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 50,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 53,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "C:\\alljoyn-16.04a-src\\MiniCurso\\Projeto\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 53,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\wesleyp\\Documents\\service\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\Users\\wesleyp\\Documents\\service\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 84,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\wesleyp\\Documents\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 84,
+                        "endOffset": 192
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\service\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 60,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 60,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 84,
+                    "endOffset": 248
+                },
+                "from": {
+                    "file": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 253,
+                    "endColumn": 50,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 50,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 53,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "F:\\Ermiston\\Alljoyb\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 53,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\service\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 60,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 60,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 84,
+                    "endOffset": 248
+                },
+                "from": {
+                    "file": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 84,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 253,
+                    "endColumn": 50,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 50,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 53,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "C:\\alljoyn-16.04a-src\\alljoyn samples_v1-Ermiston\\alljoyn samples\\service\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 53,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    }
+]

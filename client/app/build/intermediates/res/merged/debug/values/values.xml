@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Client</string>
+    <string name="enter_message_hint">Enter message</string>
+    <string name="ping_message">Ping</string>
+    <string name="signal_message">Message</string>
+</resources>

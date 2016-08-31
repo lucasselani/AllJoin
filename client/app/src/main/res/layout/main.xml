@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	<ListView android:id="@+id/ListView"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:stackFromBottom="true"
+		android:transcriptMode="alwaysScroll"
+		android:layout_weight="1.0"
+		/>
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:weightSum="1"
+		>
+		<EditText android:id="@+id/EditText"
+			android:layout_height="wrap_content"
+			android:layout_width="0dp"
+			android:layout_weight="0.4"
+			android:layout_gravity="bottom"
+			android:hint="@string/enter_message_hint"
+			android:imeOptions="actionSend"
+			/>
+
+		<Button android:id="@+id/ButtonPing"
+			android:layout_height="wrap_content"
+			android:layout_width="0dp"
+			android:layout_weight="0.3"
+			android:layout_gravity="bottom"
+			android:hint="@string/ping_message"
+			android:imeOptions="actionSend"
+			/>
+
+		<Button android:id="@+id/ButtonSignal"
+			android:layout_height="wrap_content"
+			android:layout_width="0dp"
+			android:layout_weight="0.3"
+			android:layout_gravity="bottom"
+			android:hint="@string/signal_message"
+			android:imeOptions="actionSend"
+			/>
+	</LinearLayout>
+</LinearLayout>

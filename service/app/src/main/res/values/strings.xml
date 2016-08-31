@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Service</string>
+    <string name="msg_received_successfully">Message received successfully:</string>
+    <string name="enter_message_hint">Enter message</string>
+    <string name="send_message">Send message</string>
+    <string name="ping_message">Send ping</string>
+</resources>

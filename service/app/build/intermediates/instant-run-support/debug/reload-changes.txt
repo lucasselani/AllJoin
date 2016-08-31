@@ -1,0 +1,3 @@
+CHANGED,C:\Users\wesleyp\Documents\service\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\wesleyp\Documents\service\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\alljoyn\bus\samples\simpleservice\Service$SimpleService$override.class
+CHANGED,C:\Users\wesleyp\Documents\service\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\alljoyn\bus\samples\simpleservice\R$string$override.class
